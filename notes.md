@@ -29,3 +29,16 @@ eg. Bob is an object of the Class Person.
 
 ## Encapsulation
 
+## PDO
+
+built in methods to connect to a database
+
+- prepared statements
+- object-oriented
+- unified api for different databases
+- exception handling
+
+## Mysqli
+
+- similar to PDO
+- 
